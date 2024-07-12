@@ -1,5 +1,9 @@
 # PROYECTO PRUEBA NODE-ORACLE
 
+## Tecnologías
+Node 20.15.1 <br>
+NVM 1.1.11 (opcional)
+
 ## Configuración
 Agrega de los datos de tu BD Oracle en el siguiente archivo: /src/config/keys.js y guarda
 
